@@ -1,10 +1,35 @@
 \begin{thebibliography}{}
 
+\bibitem[Carvalho et~al., 2017]{Carvalho2017}
+Carvalho, F., Punt, A.~E., Chang, Y.~J., Maunder, M.~N., and Piner, K.~R.
+  (2017).
+\newblock {Can diagnostic tests help identify model misspecification in
+  integrated stock assessments?}
+\newblock {\em Fisheries Research}, 192:28--40.
+
+\bibitem[Chang et~al., 2019]{Chang2019}
+Chang, Y.~J., Winker, H., Sculley, M., and Hsu, J. (2019).
+\newblock {Evaluation of the status and risk of overexploitation of the Pacific
+  billfish stocks considering non-stationary population processes}.
+\newblock {\em Deep-Sea Research Part II: Topical Studies in Oceanography},
+  page in press.
+
 \bibitem[Cury et~al., 2014]{cury2014resolving}
 Cury, P.~M., Fromentin, J.-M., Figuet, S., and Bonhommeau, S. (2014).
 \newblock Resolving hjort's dilemma how is recruitment related to spawning
   stock biomass in marine fish?
 \newblock {\em Oceanography}, 27(4):42--47.
+
+\bibitem[Francis and Hilborn, 2011]{francis2011data}
+Francis, R.~C. and Hilborn, R. (2011).
+\newblock Data weighting in statistical fisheries stock assessment models.
+\newblock {\em Can. J. Fish. Aquat. Sci.}, 68(6):1124--1138.
+
+\bibitem[Free et~al., 2019]{Free2019}
+Free, C.~M., Thorson, J.~T., Pinsky, M.~L., Oken, K.~L., Wiedenmann, J., and
+  Jensen, O.~P. (2019).
+\newblock {Impacts of historical warming on marine fisheries production}.
+\newblock {\em Science}, 363(6430):979 LP -- 983.
 
 \bibitem[Hilborn, 2001]{hilborn2001calculation}
 Hilborn, R. (2001).
@@ -19,12 +44,68 @@ Hjort, J. (1914).
   light of biological research.
 \newblock ICES.
 
-\bibitem[Szuwalski et~al., 2014]{szuwalski2014examining}
+\bibitem[Kell et~al., 2016]{kell2016evaluation}
+Kell, L.~T., Kimoto, A., and Kitakado, T. (2016).
+\newblock Evaluation of the prediction skill of stock assessment using
+  hindcasting.
+\newblock {\em Fisheries Research}, 183:119--127.
+
+\bibitem[Lee et~al., 2014]{lee2014use}
+Lee, H.-H., Piner, K.~R., Methot~Jr, R.~D., and Maunder, M.~N. (2014).
+\newblock Use of likelihood profiling over a global scaling parameter to
+  structure the population dynamics model: an example using blue marlin in the
+  pacific ocean.
+\newblock {\em Fisheries Research}, 158:138--146.
+
+\bibitem[Maunder, 2015]{Maunder2015}
+Maunder, M. (2015).
+\newblock Reference points, decision rules, and management strategy evaluation
+  for tunas and associated species in the eastern pacific ocean.
+\newblock {\em IATTC Stock Assessment Report}, (13):107:114.
+
+\bibitem[Maunder and Piner, 2017]{maunder2017dealing}
+Maunder, M.~N. and Piner, K.~R. (2017).
+\newblock Dealing with data conflicts in statistical inference of population
+  assessment models that integrate information from multiple diverse data sets.
+\newblock {\em Fisheries Research}, 192:16--27.
+
+\bibitem[Methot, 2005]{methot2005technical}
+Methot, R.~D. (2005).
+\newblock Technical description of the stock synthesis {II} assessment program
+  version {1.17-March} 2005.
+\newblock {\em Unpublished draft report provided on the {CD-ROM} of background
+  materials for the {STAR.} {NOAA} Fisheries, Seattle, Washington, {USA}}.
+
+\bibitem[Meyer and Millar, 1999]{Meyer1999}
+Meyer, R. and Millar, R.~B. (1999).
+\newblock {BUGS in Bayesian stock assessments}.
+\newblock {\em Canadian Journal of Fisheries and Aquatic Sciences},
+  56(6):1078--1086.
+
+\bibitem[Rodionov, 2004]{rodionov2004sequential}
+Rodionov, S.~N. (2004).
+\newblock A sequential algorithm for testing climate regime shifts.
+\newblock {\em Geophysical Research Letters}, 31(9).
+
+\bibitem[Szuwalski et~al., 2019]{szuwalski2019global}
+Szuwalski, C.~S., Britten, G.~L., Licandeo, R., Amoroso, R.~O., Hilborn, R.,
+  and Walters, C. (2019).
+\newblock Global forage fish recruitment dynamics: A comparison of methods,
+  time-variation, and reverse causality.
+\newblock {\em Fisheries Research}, 214:56--64.
+
+\bibitem[Szuwalski et~al., 2015]{szuwalski2015examining}
 Szuwalski, C.~S., Vert-Pre, K.~A., Punt, A.~E., Branch, T.~A., and Hilborn, R.
-  (2014).
-\newblock Examining common assumptions about recruitment: a meta-analysis of
+  (2015).
+\newblock Examining common assumptions about recruitment: A meta-analysis of
   recruitment dynamics for worldwide marine fisheries.
-\newblock {\em Fish and Fisheries}.
+\newblock {\em Fish and Fisheries}, 16(4):633--648.
+
+\bibitem[Thorson et~al., 2015]{Thorson2015}
+Thorson, J.~T., Jensen, O.~P., and Hilborn, R. (2015).
+\newblock {Probability of stochastic depletion: an easily interpreted
+  diagnostic for assessment modelling and fisheries management}.
+\newblock {\em ICES Journal of Marine Science}, 72:428--435.
 
 \bibitem[Travis et~al., 2014]{travis2014integrating}
 Travis, J., Coleman, F.~C., Auster, P.~J., Cury, P.~M., Estes, J.~A., Orensanz,
